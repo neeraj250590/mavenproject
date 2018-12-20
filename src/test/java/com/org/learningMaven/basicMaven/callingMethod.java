@@ -10,7 +10,7 @@ public class callingMethod extends BrowserInvoke {
 	{
 		BrowserInvoke BI = new BrowserInvoke();
 		BI.div();
-	}
+	} 
 	
 	/*@Test
 	public void signin()
